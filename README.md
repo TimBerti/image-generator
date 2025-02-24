@@ -22,8 +22,6 @@ This project is an API service that generates images based on a given text promp
    - API: `http://localhost:8000`
    - UI: `http://localhost:8501`
 
-Below is the comprehensive API documentation for the image generation service.
-
 ---
 
 # API Documentation
