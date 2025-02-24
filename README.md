@@ -166,7 +166,7 @@ Here’s an example JSON request payload to generate images:
     "n_prompt": "low quality, blurry"
   },
   "image_data": {
-    "image_array": [137, 80, 78, 71, ...]  // Example: PNG encoded image data represented as an array of integers.
+    "image_array": [137, 80, 78, 71, ...]
   }
 }
 ```
