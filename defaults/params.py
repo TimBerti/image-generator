@@ -1,0 +1,13 @@
+prompt = "mri brain scan"
+num_samples = 1
+image_resolution = 512
+strength = 1.0
+guess_mode = False
+low_threshold =  50
+high_threshold = 100
+ddim_steps = 10
+scale = 9.0
+seed = 1
+eta = 0.0
+a_prompt = 'good quality'
+n_prompt = 'animal, drawing, painting, vivid colors, longbody, lowres, bad anatomy, bad hands, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality'
